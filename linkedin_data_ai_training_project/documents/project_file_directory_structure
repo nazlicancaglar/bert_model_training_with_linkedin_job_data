@@ -1,0 +1,11 @@
+project_root/
+├── data/
+│   ├── raw/                   # Raw data
+│   └── processed/             # Processed data
+├── models/                    # Trained models
+├── outputs/                   # Keywords and reports
+├── scripts/                   # Python scripts
+├── notebooks/                 # Jupyter notebooks
+├── config/                    # Configuration files
+├── requirements.txt           # Dependencies
+└── README.md                  # Project information
